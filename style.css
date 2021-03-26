@@ -1,0 +1,15 @@
+body{
+font-family: 'Pangolin', cursive;
+background-color: #FFFFFF;
+color: #A0919A ; 
+}
+.text_images_and_result{
+    background-color:#6D466B ;
+    box-shadow:5px 5px 18px #412234 ;
+    width:310px;
+    height: 200px 
+}
+.img_responsive{
+    width:50px;
+    height:50px
+}
